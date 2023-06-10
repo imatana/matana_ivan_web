@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+img {
+	height: 300px;
+}
+body {
+	background-image: url("slike/bokeh-2072271.jpg")
+}
+p
+{
+	color: black;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: bisque;
+	padding: 20px;
+	
+}
+
+h1, h2
+{
+	color: black
+}
+a:link {
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000;
+}
+a:hover{
+	background-color: darkgray;
