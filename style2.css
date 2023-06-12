@@ -1,6 +1,10 @@
 @charset "UTF-8";
 /* CSS Document */
+@font_face {
+	font-family: "IvanMatana";
+		src: url(IvanMatana.ttf);
+}
 h1 {
 	
-	font-family:IvanMatana, Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+	font-family:"IvanMatana", Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
 }
