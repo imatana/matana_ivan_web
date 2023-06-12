@@ -2,7 +2,7 @@
 /* CSS Document */
 @font_face {
 	font-family: "IvanMatana";
-		src: url(IvanMatana.ttf);
+		src: url("IvanMatana.ttf");
 }
 h1 {
 	
